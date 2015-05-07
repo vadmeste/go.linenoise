@@ -1,7 +1,5 @@
 package linenoise
 
-// -windows
-
 // #include <stdlib.h>
 // #include "linenoise.h"
 // #include "linenoiseCompletionCallbackHook.h"
